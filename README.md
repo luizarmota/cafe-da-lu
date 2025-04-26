@@ -1,44 +1,35 @@
 
+# Café da Lu – Projeto Front-End
 
-Café da Lu – Cardápio Virtual
-Projeto desenvolvido como parte da minha jornada de aprendizado em desenvolvimento front-end, focando no uso de HTML5, CSS3 e criação de layouts responsivos.
+Projeto desenvolvido como parte da minha jornada de transição de carreira para tecnologia.  
+Aqui coloquei em prática conhecimentos de HTML, CSS e responsividade, criando um cardápio virtual fictício.
 
-Neste projeto, organizei um cardápio de cafeteria utilizando Flexbox e Grid Layout, aplicando boas práticas de estilização, estrutura semântica e responsividade.
+## Sobre o projeto
 
-Sobre o projeto
-Site simples e elegante de um cardápio de cafeteria
+A proposta foi criar um cardápio de cafeteria visualmente agradável, com identidade própria, usando apenas:
 
-Layout responsivo, adaptável para diferentes tamanhos de tela
+- **HTML5** semântico
+- **CSS3** com layout moderno
+- **Responsividade com media queries**
+- **Publicação com GitHub Pages**
 
-Uso de Flexbox para alinhamento e Grid Layout para organização dos produtos
+## Tecnologias utilizadas
 
-Hospedagem de imagens via Cloudinary
+- HTML
+- CSS
+- Flexbox
+- Grid Layout
+- Google Fonts
+- Cloudinary (para imagens)
 
-Publicação através do GitHub Pages
+## Acesse o projeto
 
-Tecnologias utilizadas
-HTML5
+🔗 [Clique aqui para acessar o site publicado](https://luizarmota.github.io/cafe-da-lu/)
 
-CSS3
+## Desenvolvido por
 
-Flexbox
-
-Grid Layout
-
-Google Fonts
-
-Cloudinary
-
-GitHub Pages
-
-Acesse o projeto
-🔗 Clique aqui para acessar o site publicado
-
-Desenvolvido por
-Luíza Mota
+**Luíza Mota**  
 Estudante de Desenvolvimento Front-End
-
-Projeto construído com dedicação e foco na prática de layouts modernos, código limpo e responsividade.
 
 
 
