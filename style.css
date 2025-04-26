@@ -1,0 +1,45 @@
+/* Estilização geral da página */
+
+body {
+  font-family: Playfair Display;
+  padding: 20px;
+  background-color: #d3b5af;
+  color: #4e342e;
+
+/* Estilização do cabeçalho */
+}
+header {
+  text-align: center;
+  margin-bottom: 40px;
+font-family: Bebas Neue;
+
+}
+
+header img {
+  width: 250px;
+  height: auto; 
+  margin-bottom: 0px;
+}
+
+/* Layout do cardápio usando Grid */
+
+.cardapio {
+  display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  justify-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+/* Estilização de cada item do cardápio */
+
+.item {
+  background-color: #f6e8e6;
+  border: 1px solid #d7ccc8;
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+  box-shadow: 9px 12px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
