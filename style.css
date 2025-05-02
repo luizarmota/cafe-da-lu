@@ -12,6 +12,7 @@ header {
   text-align: center;
   margin-bottom: 40px;
 font-family: Bebas Neue;
+font-size:30px;
 
 }
 
@@ -29,6 +30,9 @@ header img {
   justify-items: center;
   gap: 20px;
   flex-wrap: wrap;
+  max-width: 1000px;
+  margin: auto;
+max-height: 1000px;
 }
 
 /* Estilização de cada item do cardápio */
@@ -41,5 +45,61 @@ header img {
   width: 200px;
   box-shadow: 9px 12px 12px rgba(0,0,0,0.1);
   text-align: center;
+  
 }
 
+.resumo{
+  background-color: #fff8f0;
+  border: 1px solid #d8bfa0;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 10px;
+  color: #5d4037;
+}
+
+.resumo h2 {
+  margin-top: 0;
+  color: #8d6e63;
+}
+
+.pedido {
+  background-color: #fff8f0;
+  border: 1px solid #d8bfa0;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 10px;
+  color: #5d4037;
+}
+
+.pedido label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.pedido input {
+  margin-left: 10px;
+  width: 50px;
+  padding: 4px;
+}
+
+.pedido button {
+  background-color: #8d6e63;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  display: block;
+width: 100%;
+  margin-bottom: 20px;
+
+
+  
+}
+
+.pedido button:hover {
+  background-color: #6d4c41;
+}
