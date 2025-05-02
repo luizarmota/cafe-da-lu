@@ -1,35 +1,47 @@
+# ☕ Café da Lu
 
-# Café da Lu – Projeto Front-End
+Um projeto desenvolvido para simular uma vitrine digital de um café acolhedor e moderno, com foco em **HTML** e **CSS**. A proposta é oferecer uma experiência visual limpa, com elementos organizados e uma paleta de cores suave e convidativa.
 
-Projeto desenvolvido como parte da minha jornada de transição de carreira para tecnologia.  
-Aqui coloquei em prática conhecimentos de HTML, CSS e responsividade, criando um cardápio virtual fictício.
-
-## Sobre o projeto
-
-A proposta foi criar um cardápio de cafeteria visualmente agradável, com identidade própria, usando apenas:
-
-- **HTML5** semântico
-- **CSS3** com layout moderno
-- **Responsividade com media queries**
-- **Publicação com GitHub Pages**
-
-## Tecnologias utilizadas
-
-- HTML
-- CSS
-- Flexbox
-- Grid Layout
-- Google Fonts
-- Cloudinary (para imagens)
-
-## Acesse o projeto
-
-🔗 [Clique aqui para acessar o site publicado](https://luizarmota.github.io/cafe-da-lu/)
-
-## Desenvolvido por
-
-**Luíza Mota**  
-Estudante de Desenvolvimento Front-End
+---
 
 
+##  Funcionalidades e Destaques
+
+- Estrutura 100% semântica com HTML5
+- Estilização completa com CSS3
+- - Lógica funcional com JavaScript Vanilla
+- Layout responsivo para diferentes tamanhos de tela
+- Estilo visual personalizado com foco em identidade
+- Organização clara e intuitiva dos elementos
+- Projeto pronto para ser adaptado e evoluído com JavaScript no futuro
+
+---
+
+##  Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (DOM, eventos, lógica de interação)
+- Google Fonts (para tipografia personalizada)
+- Clodinary
+
+---
+
+## Acesse o Projeto
+
+ 
+📎 [[Link do projeto](https://luizarmota.github.io/cafe-da-lu)]
+---
+
+##  Sobre o Projeto
+
+O “Café da Lu” foi meu primeiro contato com JavaScript, ele é um projeto de portfólio com carinho nos detalhes e um olhar estético voltado à criação de experiências visuais envolventes. Ideal para demonstrar domínio em HTML, CSS, JavaScript e boas práticas de código.
+
+---
+
+##  Desenvolvido por
+
+**Luíza Mota** – Front-End Developer em formação.
+
+---
 
