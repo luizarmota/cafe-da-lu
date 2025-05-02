@@ -5,6 +5,10 @@ body {
   padding: 20px;
   background-color: #d3b5af;
   color: #4e342e;
+  margin: 0;
+text-align:center;
+  
+
 
 /* Estilização do cabeçalho */
 }
@@ -94,6 +98,7 @@ max-height: 1000px;
   transition: background-color 0.3s ease;
   display: block;
 width: 100%;
+  margin-top:10px;
   margin-bottom: 20px;
   
 }
