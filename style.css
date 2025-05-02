@@ -1,14 +1,10 @@
 /* Estilização geral da página */
 
-body {
+body {e
   font-family: Playfair Display;
   padding: 20px;
   background-color: #d3b5af;
   color: #4e342e;
-  margin: 0;
-text-align:center;
-  
-
 
 /* Estilização do cabeçalho */
 }
@@ -98,11 +94,24 @@ max-height: 1000px;
   transition: background-color 0.3s ease;
   display: block;
 width: 100%;
-  margin-top:10px;
   margin-bottom: 20px;
+
+
   
 }
 
 .pedido button:hover {
   background-color: #6d4c41;
+}
+
+#pedido, #resumo {
+  background-color: #fef9f4;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  width: 300px;
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
 }
