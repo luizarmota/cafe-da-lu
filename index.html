@@ -49,6 +49,29 @@
   <p> Combinação de café, chocolate intenso, leite e gelo triturado </p>
   <span> R$15,00 </span>
   </div>
+
+<section class="pedido">
+  <h2>Monte seu pedido:</h2>
+
+  <label for="qtd-capuccino">Capuccino:</label>
+  <input type="number" id="qtd-capuccino" value="0" min="0" />
+
+  <label for="qtd-latte">Latte:</label>
+  <input type="number" id="qtd-latte" value="0" min="0" />
+
+  <label for="qtd-mocha">Mocha:</label>
+  <input type="number" id="qtd-mocha" value="0" min="0" />
+
+  <label for="qtd-frapuccino">Frapuccino:</label>
+  <input type="number" id="qtd-frapuccino" value="0" min="0" />
+
+  <br><br>
+  <button onclick="mostrarResumo()">Finalizar Pedido</button>
+<button onclick="limparPedido()">Limpar Pedido</button>
 </section>
+ <section class="resumo">
+<h2>Resumo do Pedido:</h2>
+  <p id="detalhes-pedido">Seu pedido aparecerá aqui...</p>
+</section>
+  </section>
 </body>
-</html>
